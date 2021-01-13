@@ -29,6 +29,6 @@ a {
 }
 a.blog-link {
     margin: 0 auto;
-    position: fixed; 
+    position: absolute; 
     right: 5% 
 }
