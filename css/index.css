@@ -5,10 +5,10 @@ html {
 }
 body {
     margin: 0 auto;
-    width: 600px;
+    width: 90%;
     color: rgb(175 176 177);
     background-color: rgb(39 40 43);
-    padding: 0% 20px 20px 20px;
+    padding: 0% 30px 30px 30px; 
     border: 5px solid whitesmoke;
 }
 h1 {
@@ -29,6 +29,6 @@ a {
 }
 a.blog-link {
     margin: 0 auto;
-    position: relative; 
-    right: -520px;
+    position: fixed; 
+    right: 5% 
 }
