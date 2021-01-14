@@ -68,7 +68,11 @@ Lab:
 
 ----
 
-is using a just 3-band EQ
+Why not give yourself some limitation?
+
+for example: 
+
+**using a just 3-band EQ**
 
 ----
 
